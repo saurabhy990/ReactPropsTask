@@ -1,0 +1,53 @@
+.left{
+    
+    width: 50%;
+     
+  
+  
+
+}
+.movie-info{
+
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    color: white;
+    
+    
+}
+.moviedesc{
+
+    padding: 1rem;
+}
+.left > p{
+    padding: 1rem;
+    color: white;
+    
+     
+}
+.rigth{
+     
+    width: 50%; 
+
+     
+}
+
+ .img-cls{
+
+    height: 70vh;
+    width: 65vw;
+ }
+
+.main{
+   
+    display: flex;
+     align-items: center;
+    border: 5px solid black;
+    border-radius: 0.5rem;
+    height: 40%;
+    
+     
+    
+
+   
+}
